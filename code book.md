@@ -139,7 +139,7 @@ Used guidelines from Week 4, lecture 1, _editingTextVariables_ which is summariz
 
 
 RAW Feature Name | Tidy Feature Name	| Feature Value
-----------------|---------------------------------------
+----------------|---------------------|------------------
 unnamed in subject_test.txt / subject_train.txt files | "subject"		| ids of subjects - numeric values from 1 to 30
 unnamed in activity_labels.txt file | "activity"		| six possible character values: laying, sitting, standing, walking, walkingdown, walkingup
 "tBodyAcc-mean()-X" | "tbodyaccmeanx" | see RAW Data Attribute Details above
