@@ -14,6 +14,12 @@ This R script does the following:
 - Creates tidy_dataset.txt of the cleaned data. This is a 10 MB file. I did not upload to github or to the Coursera website. We are asked to generate this file as part of our script but there is no mention to upload this file.
 - Creates a second, independent tidy data set with the average of each variable for each activity and each subject named, tidy_mean_data.txt. This is the file I uploaded to Coursera and just to be safe I've uploaded to github too.
 
+## code book.md
+
+- Details of steps taken from RAW dataset to tidy dataset. 
+- Details of features and attributes in the dataset.
+
+
 
 ## tidy_mean_data.txt
 
